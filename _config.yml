@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://smartegg.github.com
-title: Smartegg's Zone
-subtitle: code is just my life.
+title: Smartegg's Code Zone
+subtitle: just enjoy write my code, be a happy coder.
 author: smartegg 
 simple_search: http://google.com/search
 description:
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: smartegg
+twitter_user: 
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
