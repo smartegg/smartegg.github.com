@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Smartegg's Zone]]></title>
-  <link href="http://smartegg.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | Smartegg's Zone]]></title>
+  <link href="http://smartegg.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://smartegg.github.com/"/>
   <updated>2012-04-29T00:52:38-07:00</updated>
   <id>http://smartegg.github.com/</id>
